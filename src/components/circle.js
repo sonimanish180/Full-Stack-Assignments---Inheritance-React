@@ -1,6 +1,6 @@
 // import 
 
-// declare class
+// declare classees 
 
 
 // export
